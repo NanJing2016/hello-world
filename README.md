@@ -1,3 +1,4 @@
 # hello-world
-Just another repositiory  
+first repositiory  
 do something!
+- init repostiory 
